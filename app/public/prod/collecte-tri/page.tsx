@@ -129,11 +129,11 @@ export default function Page() {
   ];
 
   return (
-    <div className="min-h-screen bg-linear-to-br from-gray-50 to-amber-50 p-4 md:p-8">
+    <div className="min-h-screen bg-gradient-to-br from-gray-50 to-amber-50 p-4 md:p-8">
       <div className="container mx-auto max-w-6xl">
         {/* En-tête */}
         <Card className="border-none shadow-lg mb-8">
-          <CardHeader className="bg-linear-to-r from-amber-600 to-orange-600 text-white">
+          <CardHeader className="bg-gradient-to-r from-amber-600 to-orange-600 text-white">
             <div className="flex flex-col md:flex-row justify-between items-start md:items-center">
               <div>
                 <CardTitle className="text-2xl md:text-3xl font-bold">
@@ -182,7 +182,7 @@ export default function Page() {
 
         {/* Onglets principaux */}
         <Tabs defaultValue="tri" className="w-full mb-8">
-          <TabsList className="grid w-full grid-cols-5">
+          <TabsList className="grid w-full grid-cols-2 sm:grid-cols-3 md:grid-cols-5">
             <TabsTrigger value="collecte">Collecte</TabsTrigger>
             <TabsTrigger value="tri">Tri & Calibration</TabsTrigger>
             <TabsTrigger value="conditionnement">Conditionnement</TabsTrigger>
@@ -261,106 +261,106 @@ export default function Page() {
             </Card>
           </TabsContent>
 
-          {/* Section Tri */}
+          {/* Section Tri - MODIFIÉ pour empiler verticalement */}
           <TabsContent value="tri" className="space-y-6">
-            <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
-              <Card className="border-l-4 border-l-blue-500">
-                <CardHeader>
-                  <div className="flex items-center">
-                    <div className="p-2 bg-blue-100 rounded-lg mr-3">
-                      <Filter className="h-5 w-5 text-blue-600" />
-                    </div>
-                    <div>
-                      <CardTitle>Processus de tri par diamètre</CardTitle>
-                      <CardDescription>
-                        Calibration précise par poids
-                      </CardDescription>
-                    </div>
+            {/* Première section : Processus de tri par diamètre */}
+            <Card className="border-l-4 border-l-blue-500">
+              <CardHeader>
+                <div className="flex items-center">
+                  <div className="p-2 bg-blue-100 rounded-lg mr-3">
+                    <Filter className="h-5 w-5 text-blue-600" />
                   </div>
-                </CardHeader>
-                <CardContent>
-                  <div className="space-y-4">
-                    <div>
-                      <h4 className="font-semibold mb-2">
-                        Flux de traitement :
-                      </h4>
-                      <div className="space-y-3">
-                        {zonesTri.map((zone, index) => (
-                          <div key={index} className="flex items-center">
-                            <div className="p-2 bg-gray-100 rounded-lg mr-3">
-                              {zone.icon}
-                            </div>
-                            <div>
-                              <p className="font-medium">{zone.nom}</p>
-                              <p className="text-sm text-gray-600">
-                                {zone.description}
-                              </p>
-                            </div>
+                  <div>
+                    <CardTitle>Processus de tri par diamètre</CardTitle>
+                    <CardDescription>
+                      Calibration précise par poids
+                    </CardDescription>
+                  </div>
+                </div>
+              </CardHeader>
+              <CardContent>
+                <div className="space-y-4">
+                  <div>
+                    <h4 className="font-semibold mb-2">Flux de traitement :</h4>
+                    <div className="space-y-3">
+                      {zonesTri.map((zone, index) => (
+                        <div key={index} className="flex items-center">
+                          <div className="p-2 bg-gray-100 rounded-lg mr-3">
+                            {zone.icon}
                           </div>
-                        ))}
-                      </div>
-                    </div>
-
-                    <Separator />
-
-                    <div>
-                      <h4 className="font-semibold mb-2">
-                        Description du processus :
-                      </h4>
-                      <p className="text-sm text-gray-600 mb-3">
-                        Les œufs arrivent sur le convoyeur et sont dirigés vers
-                        les fentes de calibration. Les fentes les plus hautes
-                        laissent passer les petits œufs, tandis que les plus
-                        basses retiennent les œufs plus gros. Chaque catégorie
-                        est collectée dans des plateaux spécifiques avant d'être
-                        conditionnée.
-                      </p>
+                          <div>
+                            <p className="font-medium">{zone.nom}</p>
+                            <p className="text-sm text-gray-600">
+                              {zone.description}
+                            </p>
+                          </div>
+                        </div>
+                      ))}
                     </div>
                   </div>
-                </CardContent>
-              </Card>
 
-              <Card className="border-l-4 border-l-purple-500">
-                <CardHeader>
-                  <div className="flex items-center">
-                    <div className="p-2 bg-purple-100 rounded-lg mr-3">
-                      <Filter className="h-5 w-5 text-purple-600" />
-                    </div>
-                    <div>
-                      <CardTitle>Machine à trier</CardTitle>
-                      <CardDescription>
-                        Visualisation du système de calibration
-                      </CardDescription>
-                    </div>
+                  <Separator />
+
+                  <div>
+                    <h4 className="font-semibold mb-2">
+                      Description du processus :
+                    </h4>
+                    <p className="text-sm text-gray-600 mb-3">
+                      Les œufs arrivent sur le convoyeur et sont dirigés vers
+                      les fentes de calibration. Les fentes les plus hautes
+                      laissent passer les petits œufs, tandis que les plus
+                      basses retiennent les œufs plus gros. Chaque catégorie est
+                      collectée dans des plateaux spécifiques avant d'être
+                      conditionnée.
+                    </p>
                   </div>
-                </CardHeader>
-                <CardContent>
-                  <div className="bg-gray-50 rounded-lg p-4">
+                </div>
+              </CardContent>
+            </Card>
+
+            {/* Deuxième section : Machine à trier - EMPILÉE VERTICALEMENT */}
+            <Card className="border-l-4 border-l-purple-500">
+              <CardHeader>
+                <div className="flex items-center">
+                  <div className="p-2 bg-purple-100 rounded-lg mr-3">
+                    <Filter className="h-5 w-5 text-purple-600" />
+                  </div>
+                  <div>
+                    <CardTitle>Machine à trier</CardTitle>
+                    <CardDescription>
+                      Visualisation du système de calibration
+                    </CardDescription>
+                  </div>
+                </div>
+              </CardHeader>
+              <CardContent>
+                <div className="bg-gray-50 rounded-lg p-4 overflow-hidden">
+                  <div className="max-h-[500px] overflow-y-auto">
                     <Trieuse />
                   </div>
-                  <div className="mt-4 grid grid-cols-2 gap-2">
-                    <Badge className="bg-blue-100 text-blue-800">
-                      Fentes hautes : S/M
-                    </Badge>
-                    <Badge className="bg-green-100 text-green-800">
-                      Fentes moyennes : L
-                    </Badge>
-                    <Badge className="bg-amber-100 text-amber-800">
-                      Fentes basses : XL
-                    </Badge>
-                    <Badge className="bg-red-100 text-red-800">
-                      Rejet : Cassés/Inadéquats
-                    </Badge>
-                  </div>
-                </CardContent>
-              </Card>
-            </div>
+                </div>
+                <div className="mt-4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-2">
+                  <Badge className="bg-blue-100 text-blue-800 text-center">
+                    Fentes hautes : S/M
+                  </Badge>
+                  <Badge className="bg-green-100 text-green-800 text-center">
+                    Fentes moyennes : L
+                  </Badge>
+                  <Badge className="bg-amber-100 text-amber-800 text-center">
+                    Fentes basses : XL
+                  </Badge>
+                  <Badge className="bg-red-100 text-red-800 text-center">
+                    Rejet : Cassés/Inadéquats
+                  </Badge>
+                </div>
+              </CardContent>
+            </Card>
           </TabsContent>
 
           {/* Section Conditionnement */}
           <TabsContent value="conditionnement" className="space-y-6">
             <Card className="border-l-4 border-l-emerald-500">
-              <CardHeader className="bg-linear-to-r from-emerald-50 to-green-50">
+              <CardHeader className="bg-gradient-to-r from-emerald-50 to-green-50">
                 <CardTitle className="flex items-center">
                   <Package className="h-5 w-5 mr-2" />
                   Règles de positionnement des œufs
