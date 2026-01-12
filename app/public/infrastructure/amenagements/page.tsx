@@ -28,7 +28,7 @@ import {
   Scale,
   CheckCircle,
 } from "lucide-react";
-import Eau from "./eau";
+import Eau from "./Eau";
 import Alimdistrib from "./alimdistrib";
 
 export default function AmenagementElevage() {

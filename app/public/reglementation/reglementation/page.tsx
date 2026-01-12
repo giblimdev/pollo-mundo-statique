@@ -275,11 +275,11 @@ export default function Reglementation() {
   ];
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-gray-50 to-blue-50 p-4 md:p-8">
+    <div className="min-h-screen bg-linear-to-br from-gray-50 to-blue-50 p-4 md:p-8">
       <div className="container mx-auto max-w-6xl">
         {/* En-tête */}
         <Card className="border-none shadow-lg mb-8">
-          <CardHeader className="bg-gradient-to-r from-indigo-700 to-blue-800 text-white">
+          <CardHeader className="bg-linear-to-r from-indigo-700 to-blue-800 text-white">
             <div className="flex flex-col md:flex-row justify-between items-start md:items-center">
               <div>
                 <CardTitle className="text-2xl md:text-3xl font-bold">
@@ -999,7 +999,7 @@ export default function Reglementation() {
                   <div className="space-y-4">
                     {miseEnConformite.map((etape, index) => (
                       <div key={index} className="flex items-start">
-                        <div className="flex-shrink-0 w-8 h-8 bg-blue-100 text-blue-800 rounded-full flex items-center justify-center font-bold mr-4">
+                        <div className="shrink-0 w-8 h-8 bg-blue-100 text-blue-800 rounded-full flex items-center justify-center font-bold mr-4">
                           {etape.etape.split(".")[0]}
                         </div>
                         <div className="flex-1">
