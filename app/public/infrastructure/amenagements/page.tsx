@@ -28,7 +28,7 @@ import {
   Scale,
   CheckCircle,
 } from "lucide-react";
-import Eau from "./Eau";
+
 import Alimdistrib from "./alimdistrib";
 
 export default function AmenagementElevage() {
@@ -879,7 +879,6 @@ export default function AmenagementElevage() {
         </Tabs>
       </div>
       <div>
-        <Eau />
         <Alimdistrib />
       </div>
     </div>
