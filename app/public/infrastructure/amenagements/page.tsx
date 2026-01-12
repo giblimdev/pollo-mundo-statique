@@ -30,6 +30,7 @@ import {
 } from "lucide-react";
 
 import Alimdistrib from "./alimdistrib";
+import Eau from "./eau";
 
 export default function AmenagementElevage() {
   const zonesFonctionnelles = [
@@ -877,6 +878,9 @@ export default function AmenagementElevage() {
             </div>
           </TabsContent>
         </Tabs>
+      </div>
+      <div>
+        <Eau />
       </div>
       <div>
         <Alimdistrib />
