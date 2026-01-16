@@ -1,0 +1,424 @@
+# Culture de Pleurottes en Bouteilles - Mode d'Emploi Complet
+
+## Introduction
+
+La culture de pleurottes (*Pleurotus ostreatus*) en bouteilles est une méthode accessible et peu coûteuse pour produire des champignons frais à la maison. Ce guide vous permet de démarrer à partir de champignons du commerce jusqu'à votre première récolte, en passant par la production de mycélium.
+
+---
+
+## Phase 1 : Préparation du Mycélium sur Grain
+
+### 1.1 Matériel nécessaire
+
+- Grains (riz, millet ou blé) : 500 g
+- Bocaux en verre stérilisables avec couvercles
+- Alcool (70% isopropanol ou alcool à brûler)
+- Gaze ou filtre à café
+- Couteau stérile
+- Gants de latex
+- Espace sombre et frais (15-20°C)
+
+### 1.2 Étapes de préparation
+
+**Étape 1 : Nettoyage des grains**
+1. Rincez les grains à l'eau froide plusieurs fois
+2. Égouttez complètement pour éliminer l'eau stagnante
+3. Versez dans un bocal en verre
+
+**Étape 2 : Cuisson et humidification**
+1. Remplissez d'eau juste au-dessus des grains
+2. Portez à ébullition pendant 10-15 minutes
+3. Égouttez complètement (évite la pourriture)
+4. Laissez reposer 12 heures pour que les grains réhydratent
+
+**Étape 3 : Stérilisation**
+1. Remplissez le bocal avec les grains cuits et égouttés
+2. Fermez le couvercle hermétiquement
+3. Versez de l'alcool dans le couvercle pour désinfecter
+4. Essuyez les parois extérieures avec un chiffon alcoolisé
+5. Laissez refroidir complètement (minimum 2 heures)
+
+### 1.3 Inoculation du grain
+
+**Préparation des champignons du commerce**
+1. Achetez des pleurottes frais du commerce (variété classique ou jaune)
+2. Sélectionnez les plus beaux spécimens sans taches
+3. Coupez les champignons en petits morceaux (5-10 mm)
+4. Habillez-vous convenablement : gants, masque, zone de travail propre
+
+**Inoculation du mycélium**
+1. Ouvrez le bocal rapidement dans un environnement propre
+2. Ajoutez 2-3 morceaux de champignon frais
+3. Refermez immédiatement le couvercle
+4. Fermez le couvercle hermétiquement et nettoyez l'extérieur avec de l'alcool
+5. Stockez dans l'obscurité à 20-24°C
+
+### 1.4 Phase d'incubation (2-4 semaines)
+
+- **Température optimale** : 20-24°C
+- **Humidité** : 80-90%
+- **Luminosité** : Obscurité totale
+- **Ventilation** : Pas nécessaire
+
+Attendez l'apparition d'un réseau blanc (mycélium) qui colonise les grains. Cette phase dure 2 à 4 semaines selon les conditions. Le bocal est prêt quand 70-80% des grains sont couverts de mycélium blanc.
+
+---
+
+## Phase 2 : Préparation du Substrat et Remplissage des Bouteilles
+
+### 2.1 Matériel nécessaire
+
+- Bouteilles en plastique (1,5 L ou 2 L)
+- Paille ou sciure de bois (non traités)
+- Chaux vive (pour la pasteurisation)
+- Seau ou grande marmite
+- Ciseaux ou couteau aiguisé
+- Tissu ou gaze pour filtrer
+- Mycélium sur grain colonisé
+- Ruban adhésif résistant
+
+### 2.2 Préparation du substrat
+
+**Pasteurisation à la chaux**
+
+Cette étape élimine les contaminants tout en créant un environnement alcalin défavorable aux bactéries indésirables.
+
+1. Préparation de la solution de chaux :
+   - Remplissez un seau de 10 L d'eau
+   - Diluez 15-20 g de chaux vive dans l'eau (mélangez bien)
+   - Attendez 30 minutes que la solution se stabilise
+
+2. Traitement du substrat :
+   - Pesez 2 kg de paille ou sciure
+   - Enveloppez-la dans du tissu pour faciliter la manipulation
+   - Immergez complètement dans la solution de chaux
+   - Laissez tremper 12 heures
+   - Retirez et essorez bien jusqu'à éliminer tout excès d'eau
+   - Le substrat doit être humide mais non dégoulinant
+
+3. Refroidissement :
+   - Étalez le substrat sur une surface propre
+   - Attendez qu'il refroidisse à température ambiante (4-6 heures)
+
+### 2.3 Préparation des bouteilles
+
+1. **Nettoyage** :
+   - Lavez les bouteilles à l'eau chaude savonneuse
+   - Rincez abondamment et laissez sécher
+   - Nettoyez l'intérieur avec un chiffon alcoolisé
+
+2. **Découpe** :
+   - Coupez le haut de la bouteille à environ 10 cm du sommet
+   - Gardez la partie inférieure (réservoir principal)
+   - Conservez le bouchon pour la partie supérieure
+   - Lissez les bords avec du papier de verre fin
+
+3. **Trous de ventilation** (optionnel pour les petits formats) :
+   - Percez 4-6 petits trous (3-4 mm) à mi-hauteur de la bouteille
+   - Ces trous faciliteront l'aération en phase de fructification
+
+### 2.4 Remplissage et inoculation
+
+**Procédure de remplissage**
+
+1. Créez des couches alternées dans la bouteille :
+   - 2 cm de substrat pasteurisé
+   - 1 cm de mycélium sur grain
+   - 2 cm de substrat pasteurisé
+   - Répétez jusqu'à remplir la bouteille
+   - Finissez par une couche de substrat (3 cm) sans mycélium
+
+2. Compactage :
+   - Tassez légèrement chaque couche de substrat
+   - Cela augmente la densité et l'efficacité du mycélium
+   - Ne compactez pas le mycélium (risque de dommages)
+
+3. Fermeture pour l'incubation :
+   - Recouvrez la bouteille ouverte avec du plastique étirable
+   - Ou utilisez du ruban adhésif pour sceller les deux parties
+   - Gardez les trous fermés pendant l'incubation (si vous en avez percés)
+   - Cela conserve l'humidité et prévient les contaminations
+
+---
+
+## Phase 3 : Incubation (Colonisation du Substrat)
+
+### 3.1 Conditions optimales
+
+| Paramètre | Valeur |
+|-----------|--------|
+| **Température** | 20-24°C |
+| **Humidité** | 80-95% |
+| **Luminosité** | Obscurité totale |
+| **Durée** | 3-4 semaines |
+
+### 3.2 Emplacements recommandés
+
+- Placard sombre fermé
+- Sous-sol ou cave non chauffés
+- Armoire fermée à température stable
+- **À éviter** : Lumière directe, courants d'air froid, vibrations constantes
+
+### 3.3 Suivi de la colonisation
+
+Observez régulièrement (2-3 fois par semaine) l'évolution du mycélium blanc qui colonise le substrat. La phase est complète quand :
+- 100% du substrat est blanc et dense
+- Aucun point noir ou gris (contamination)
+- Une légère odeur boisée (pas d'odeur pourrie)
+
+**Résolution des problèmes** :
+
+| Problème | Cause | Solution |
+|----------|-------|----------|
+| Taches vertes/noires | Contamination fongique | Jetez la bouteille |
+| Odeur nauséabonde | Pourriture bactérienne | Jetez la bouteille |
+| Colonisation très lente | Température trop basse | Rapprochez d'une source de chaleur |
+| Pourriture | Humidité excessive | Améliorez la ventilation |
+
+---
+
+## Phase 4 : Initiation de la Fructification
+
+### 4.1 Choc thermique
+
+Quand le substrat est complètement colonisé, créez un choc thermique qui simule le changement saisonnier naturel.
+
+**Procédure** :
+1. Retirez la bouteille de son emplacement sombre
+2. Placez-la au réfrigérateur une nuit entière (6-12 heures)
+3. Température cible : 4-10°C
+4. Cette baisse de température déclenche la production de primordiums (petits champignons)
+
+### 4.2 Ouverture de la bouteille
+
+**Une fois le choc thermique appliqué** :
+1. Retirez le plastique ou le ruban adhésif
+2. Retirez le bouchon de la partie supérieure
+3. Placez la bouteille en position de production (voir section 4.3)
+
+### 4.3 Conditions de fructification
+
+| Paramètre | Valeur |
+|-----------|--------|
+| **Température** | 12-20°C (15-18°C optimal) |
+| **Humidité** | 85-95% |
+| **Luminosité** | Lumière indirecte (500-1000 lux) |
+| **Aération** | Ventilation quotidienne (ouvrir trous/goulot) |
+| **Durée** | 10-15 jours jusqu'à récolte |
+
+### 4.4 Positionnement des bouteilles
+
+Disposez les bouteilles de manière à encourager la fructification verticale :
+
+- **Orientation verticale** : Trou ou goulot vers le haut (pleurottes naturellement verticales)
+- **Appui stable** : Sur une étagère ou dans un bac pour retenir l'humidité
+- **Distance** : 10-15 cm entre bouteilles pour la circulation d'air
+
+---
+
+## Phase 5 : Soins Quotidiens et Humidification
+
+### 5.1 Brumisation
+
+Les pleurottes adorent l'humidité. Elles doivent rester en atmosphère très humide.
+
+**Équipement** :
+- Pulvérisateur à brume fine (spray de plantes classique)
+- Eau distillée de préférence (réduit les salissures)
+
+**Fréquence** :
+- **Matin** : Pulvérisez 1-2 fois le substrat et l'air autour
+- **Soir** : Pulvérisez 1-2 fois le substrat et l'air autour
+- **Total** : 2-4 vaporisations par jour selon le climat local
+
+**Technique** :
+- Vaporisez l'air autour de la bouteille et le substrat visible
+- Évitez de tremper complètement (pour éviter la pourriture)
+- Maintenez une brume fine constante
+
+### 5.2 Aération
+
+Essentiellement fournie par :
+- Ouverture du goulot de la bouteille
+- Orifices percés s'ils sont ouverts
+- Ventilation naturelle de la pièce
+
+**Fréquence** :
+- Minimale 1-2 fois par jour
+- Ouvrez le goulot pendant 5-10 minutes
+- Un excès de CO₂ empêche la fructification
+
+### 5.3 Éclairage
+
+- **Intensité** : Lumière indirecte (500-1000 lux)
+- **Durée** : 8-12 heures par jour
+- **Source** : Fenêtre avec rideau, lampe LED à faible intensité, ou lumière ambiante
+- **Éviter** : Lumière directe du soleil (dessèche)
+
+### 5.4 Température ambiante
+
+Maintenir à 15-18°C si possible pour la fructification. À Popayán :
+- Votre climat frais d'altitude est idéal
+- Peut nécessiter une serre régulée en saison chaude
+- En saison fraîche : peu d'ajustements nécessaires
+
+---
+
+## Phase 6 : Récolte et Rendement
+
+### 6.1 Signes de maturité
+
+Les pleurottes sont prêtes à récolter quand :
+- Les chapeaux sont bien développés et légèrement incurvés vers le bas
+- Les lamelles sous le chapeau sont bien visibles et pâles
+- Les champignons mesurent 5-10 cm de diamètre
+- **Durée totale** : 10-15 jours après le choc thermique
+
+### 6.2 Technique de récolte
+
+1. **Saisissez les grappes** :
+   - Prenez le groupe de champignons à la base
+   - Torsionnez légèrement en tirant vers le bas
+   - Récoltez en grappe plutôt qu'individuellement quand possible
+
+2. **Moment optimal** :
+   - Avant que les lamelles libèrent des spores (brunissent)
+   - Meilleur goût et texture
+   - Rendement maximal
+
+3. **Nettoyage** :
+   - Coupez légèrement la base avec un couteau pour retirer le substrat
+   - Utilisez-les rapidement (durée de vie : 5-7 jours au réfrigérateur)
+
+### 6.3 Rendement attendu
+
+- **Première fructification** : 200-400 g par bouteille (1,5-2 L)
+- **Poids frais** : Les pleurottes contiennent 90% d'eau
+- **Durée de production** : La bouteille peut produire 2-3 cycles après le premier
+
+### 6.4 Cycles de production supplémentaires
+
+Pour obtenir une 2e et 3e récolte sur la même bouteille :
+
+1. Après la première récolte, attendez 7-10 jours
+2. Rehydratez le substrat avec pulvérisations abondantes
+3. Appliquez un nouveau choc thermique (réfrigérateur 1 nuit)
+4. Suivez à nouveau les étapes 4.3 à 6.2
+5. **Rendement décroissant** : 2e cycle ≈ 80% du 1er, 3e ≈ 60% du 1er
+
+Après 3 cycles, le substrat s'épuise. Videz la bouteille et compostez le substrat usagé.
+
+---
+
+## Calendrier Récapitulatif
+
+| Phase | Durée | Conditions |
+|-------|-------|-----------|
+| Mycélium sur grain | 2-4 semaines | 20-24°C, obscurité, humidité 80-90% |
+| Incubation en bouteille | 3-4 semaines | 20-24°C, obscurité, humidité 80-95% |
+| Choc thermique | 1 nuit | 4-10°C |
+| Initiation/Fructification | 10-15 jours | 15-18°C, humidité 85-95%, lumière indirecte |
+| **Durée totale** | **6-8 semaines** | Du champignon du commerce à la première récolte |
+
+---
+
+## Conseils d'Optimisation pour Popayán
+
+### Avantages locaux
+
+1. **Climat d'altitude idéal** : Les températures de 14-19°C sont parfaites pour la fructification
+2. **Humidité naturelle élevée** : Réduit les efforts de brumisation
+3. **Luminosité stable** : Peu de variation saisonnière
+
+### Ajustements recommandés
+
+1. **En saison chaude (24-28°C)** :
+   - Utilisez une serre ombragée pour les phases de fructification
+   - Augmentez la fréquence de brumisation
+   - Aérez plus généralement
+
+2. **Récupération de marc de café** :
+   - Mélangez 30% marc de café + 70% paille ou sciure
+   - Améliore la colonisation et réduit les frais
+   - Excellent engrais après le cycle (cycle circulaire)
+
+3. **Production continue** :
+   - Lancez une nouvelle bouteille chaque semaine
+   - Vous aurez toujours des champignons en récolte
+   - Optimisez l'espace avec des étagères
+
+---
+
+## Dépannage et Résolution des Problèmes
+
+### Contamination verte/noire
+
+**Symptômes** : Taches vertes ou noires qui s'étendent
+**Cause** : Spores de contaminants
+**Solution** : Jetez la bouteille immédiatement pour éviter la propagation
+
+### Mycélium qui ne colonise pas
+
+**Symptômes** : Pas de croissance blanche après 5 semaines
+**Causes possibles** :
+- Température trop basse (< 18°C)
+- Mycélium mort du commerce
+- Contamination silencieuse
+**Solutions** : Augmentez la température, changez de source de champignons
+
+### Pas de fructification après le choc thermique
+
+**Causes possibles** :
+- Pas de choc thermique suffisant
+- Température de fructification trop élevée (> 22°C)
+- Substrat pas assez humide
+- Aération insuffisante
+**Solutions** : Appliquez un second choc thermique, réduisez la température ambiante, brumisez davantage
+
+### Champignons qui se dessèchent
+
+**Cause** : Humidité insuffisante ou ventilation excessive
+**Solution** : Brumisez davantage, réduisez l'aération, créez un mini-dôme avec un sac plastique aéré
+
+### Champignons très fins avec petits chapeaux
+
+**Cause** : Lumière insuffisante ou aération trop importante
+**Solution** : Augmentez la lumière, réduisez légèrement l'aération
+
+---
+
+## Matériel Récapitulatif Complet
+
+### Pour démarrer (budget économique)
+
+- 3-4 champignons pleurottes du commerce : 10-15 €
+- Grains (riz/millet) : 5 €
+- Bocaux en verre : 5 €
+- Bouteilles plastique recyclées : 0 €
+- Paille ou sciure : 3-5 €
+- Alcool isopropanol : 5 €
+- Chaux vive : 3 €
+- Pulvérisateur : 3 €
+- **Total** : **30-50 €** pour vos premiers champignons
+
+### Matériel réutilisable
+
+- Bocaux en verre
+- Bouteilles plastiques
+- Récipients pour substrat
+- Pulvérisateur
+- Thermomètre (optionnel mais recommandé)
+
+---
+
+## Références et Sources
+
+[1] De WS Jo. (2008). Fruitbody Development of Pleurotus ostreatus via Bottle Cultivation. Applied Microbiology.
+
+[2] Tamaschampignons. (2025). Cultiver le pleurote de panicaut - Guide Complet. Gestion technique des paramètres de culture.
+
+[3] Cultiver-les-champignons.com. (2024). Recycler une bouteille en plastique pour cultiver des champignons.
+
+[4] Pleine-terre.fr. (2025). Faire pousser des champignons en cave à la maison : pleurotes et variations.
+
+[5] Lowtechlab.org Wiki. (2023). Culture de pleurotes - Méthodes et techniques traditionnelles.
